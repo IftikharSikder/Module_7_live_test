@@ -5,8 +5,10 @@
 
 •       Both buttons should be in a Row and have different sizes (responsive).
 
-•       Press the "Increment" button to increase the counter value by 1 and press the "Decrement" button to decrease the counter value by 1. 
+•       Press the "Increment" button to increase the counter value by 1 and press the "Decrement" button to decrease the counter value by 1.
+
 •       If the counter value reaches 5, display a dialog box with the message "Counter value is 5!".
+
 •       If the counter value reaches 10, navigate to a new screen called SecondScreen that displays the message "Congratulations! You reached 10!".
 
 

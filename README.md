@@ -1,6 +1,7 @@
 # Module_7_live_test
-•       Create a Flutter application that consists of a stateful widget called CounterApp. 
+A Flutter application that consists of a stateful widget called CounterApp. 
 
+App Includes:
 •       The CounterApp should display a counter value and two buttons: "Increment" and "Decrement".
 
 •       Both buttons should be in a Row and have different sizes (responsive).
